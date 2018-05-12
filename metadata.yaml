@@ -37,6 +37,8 @@ creator:
 description: "Albrecht Behmel (born 24 March 1971) is a German artist, novelist, historian,\
   \ best-selling non-fiction writer and award-winning playwright.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14591#Faust
 gutenberg_bookshelf:
 - Harvard Classics
 - Best Books Ever Listings
