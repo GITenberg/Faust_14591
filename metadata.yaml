@@ -1,0 +1,62 @@
+_repo: Faust_14591
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Clarke, Harry
+    alias: Clarke, Henry Patrick
+    birthdate: 1889
+    deathdate: 1931
+    gutenberg_agent_id: '33646'
+    url: http://www.gutenberg.org/2009/agents/33646
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Clarke
+  translator:
+    agent_name: Taylor, Bayard
+    aliases:
+    - Taylor, J. B.
+    - Taylor, J.B.
+    - Taylor, James Bayard
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '167'
+    url: http://www.gutenberg.org/2009/agents/167
+    wikipedia: http://en.wikipedia.org/wiki/Bayard_Taylor
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: "Albrecht Behmel (born 24 March 1971) is a German artist, novelist, historian,\
+  \ best-selling non-fiction writer and award-winning playwright.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- Harvard Classics
+- Best Books Ever Listings
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2005-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14591'
+  wikidata: Q16201199
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Faust, -approximately 1540 -- Drama'
+- !lcsh 'German poetry -- Translations into English'
+- !lcsh 'Magicians -- Drama'
+- !lcsh 'Legends -- Germany -- Drama'
+- !lcc 'PT'
+title: Faust
+url: http://www.gutenberg.org/ebooks/14591
+wikipedia:
+- https://en.wikipedia.org/wiki/Doktor_Faust_und_Mephisto
